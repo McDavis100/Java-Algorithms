@@ -4,6 +4,9 @@
 
 ### Hub for **All Java Algorithms** arranged as per their categories
 
+##Algorithm Definition
+Algorithms are mathematical, we can implement an algorithm using a programming language to solve a problem on a computer.
+
 Provides a huge range of algorithm categories such as **sorting, searching, backtracking and much more**.
 
 ## Collaboration
