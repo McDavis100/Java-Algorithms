@@ -1,5 +1,5 @@
 import java.math.BigInteger;
-
+//this is a functional algorithm
 public class factorial{
 	public static BigInteger rec(int q){
 		BigInteger u=BigInteger.valueOf(q);
